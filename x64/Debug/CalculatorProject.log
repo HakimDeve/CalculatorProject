@@ -1,0 +1,4 @@
+﻿  CalculatorProject.cpp
+C:\Users\hakim\source\repos\CalculatorProject\CalculatorProject\CalculatorProject.cpp(96,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\hakim\source\repos\CalculatorProject\CalculatorProject\CalculatorProject.cpp(96,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  CalculatorProject.vcxproj -> C:\Users\hakim\source\repos\CalculatorProject\x64\Debug\CalculatorProject.exe

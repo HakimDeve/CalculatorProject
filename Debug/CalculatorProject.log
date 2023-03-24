@@ -1,0 +1,2 @@
+﻿  CalculatorProject.cpp
+C:\Users\hakim\source\repos\CalculatorProject\CalculatorProject\CalculatorProject.cpp(114): error C4700: uninitialized local variable 'OpData' used
